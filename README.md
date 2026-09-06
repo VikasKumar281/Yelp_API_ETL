@@ -692,11 +692,15 @@ Phone
 Yelp URL
 ```
 
-To display a local results screenshot, add it to the repository and use:
+### Results Screenshot
 
-```markdown
-![Yelp API ETL Results](assets/Results.PNG)
-```
+The original project README included the following execution-results screenshot:
+
+![Yelp API ETL Results](https://github.com/san089/Udacity-Data-Engineering-Projects/blob/master/Data_Api_to_Postgres/Results.PNG)
+
+The screenshot demonstrates the result/output of the API-to-PostgreSQL workflow.
+
+> **Note:** The image is retained from the original README exactly as provided. If you own a local copy of `Results.PNG`, it is better to add it to this repository under `assets/Results.PNG` and use the local image instead.
 
 ---
 
